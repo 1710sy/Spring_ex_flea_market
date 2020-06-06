@@ -8,7 +8,7 @@
 </head>
 <body>
 <% 
-	response.setHeader("refresh","2,login.jsp");
+	response.setHeader("refresh","2,n_user.jsp");
 %>
 您已成功购买一件商品！！两秒后跳转到主页面！！
 	<a href ="print_goods">若没有跳转请单击这里</a>！！
